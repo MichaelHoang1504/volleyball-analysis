@@ -1,8 +1,5 @@
 # Hai Minh Hoang: setup and pipeline integration
 
-This package covers Hai’s part of the work plan only. It is a new starting version because the current project notebook was not attached. Keep a backup before copying files into your repository.
-
-## Steps
 1. Create a branch: `git switch -c hai/pipeline`.
 2. Copy `00_setup.ipynb`, `pipeline.ipynb` and `requirements.txt` into the project root. Add the supplied ignore rules to your existing .gitignore; do not overwrite unrelated rules.
 3. Open 00_setup.ipynb with your basketball kernel or in Colab. Run the install and GPU cells.
