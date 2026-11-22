@@ -6,3 +6,12 @@ __pycache__/
 input_volleyball.mp4
 volleyball_output.mp4
 volleyball_sample.mp4
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.pt
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/

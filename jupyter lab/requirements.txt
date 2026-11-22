@@ -1,0 +1,9 @@
+ultralytics>=8.3
+opencv-python
+numpy
+pandas
+gradio
+supervision
+gdown
+lap
+nbstripout
