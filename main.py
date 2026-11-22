@@ -21,8 +21,7 @@ def main():
     # Resolve paths relative to this Python file.
     project_folder = Path(__file__).resolve().parent
 
-    input_path = project_folder / "volleyball_sample.mp4"
-
+    input_path = project_folder / "volleyball_sample2.mp4"
     output_folder = project_folder / "outputs"
     output_folder.mkdir(parents=True, exist_ok=True)
 
